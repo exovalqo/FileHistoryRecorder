@@ -1,0 +1,10 @@
+C:\Users\pudy1\source\repos\ExoFile\ExoFile\bin\Debug\ExoFile.exe.config
+C:\Users\pudy1\source\repos\ExoFile\ExoFile\bin\Debug\ExoFile.exe
+C:\Users\pudy1\source\repos\ExoFile\ExoFile\bin\Debug\ExoFile.pdb
+C:\Users\pudy1\source\repos\ExoFile\ExoFile\obj\Debug\ExoFile.csprojAssemblyReference.cache
+C:\Users\pudy1\source\repos\ExoFile\ExoFile\obj\Debug\ExoFile.Properties.Resources.resources
+C:\Users\pudy1\source\repos\ExoFile\ExoFile\obj\Debug\ExoFile.csproj.GenerateResource.cache
+C:\Users\pudy1\source\repos\ExoFile\ExoFile\obj\Debug\ExoFile.csproj.CoreCompileInputs.cache
+C:\Users\pudy1\source\repos\ExoFile\ExoFile\obj\Debug\ExoFile.exe
+C:\Users\pudy1\source\repos\ExoFile\ExoFile\obj\Debug\ExoFile.pdb
+C:\Users\pudy1\source\repos\ExoFile\ExoFile\obj\Debug\HistoryDirectoryChecker.Form1.resources
